@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 <!--
 **DoGeol/DoGeol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://dogeol.github.io/
+Welcome to PDG's Github
+
+* Algorithm : https://www.notion.so/pdg2491/258aaae63ab64d72a84e25afab623b91
+* Portfolio : (예정) https://dogeol.github.io/
