@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 Welcome to PDG's Github
 
 * Algorithm : https://www.notion.so/pdg2491/258aaae63ab64d72a84e25afab623b91
-* Portfolio : (예정) https://dogeol.github.io/
+* Portfolio : https://dogeol.github.io/portfolio/
