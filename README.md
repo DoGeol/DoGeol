@@ -19,5 +19,4 @@ Welcome to PDG's Github
 [![job](https://img.shields.io/badge/job-frontend%20engineer-brightgreen)](https://img.shields.io/badge/job-frontend%20engineer-brightgreen)
 [![year](https://img.shields.io/badge/year-6-brightgreen)](https://img.shields.io/badge/year-6-brightgreen)
 
-* Algorithm : https://www.notion.so/pdg2491/258aaae63ab64d72a84e25afab623b91
 * Portfolio : https://dogeol.github.io
